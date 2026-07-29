@@ -1,6 +1,6 @@
 # Databases for Data Science (CS-A1155)
 
-Aalto University · 5 ECTS · Spring 2024 · Group project
+Aalto University · 5 ECTS · Spring 2024 · Group project · Grade: 5 (Excellent)
 
 End-to-end database project: relational schema design and table creation (PostgreSQL), data insertion, views, triggers, and transactions (`code/`), topped with an interactive Dash dashboard (`final_deliverable/`). Project reports are in `doc/`.
 

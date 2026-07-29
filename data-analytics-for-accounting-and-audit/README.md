@@ -1,6 +1,6 @@
 # Data Analytics for Accounting and Audit (ABL-C1103)
 
-Aalto University · 6 ECTS · Spring 2025 · Group project
+Aalto University · 6 ECTS · Spring 2025 · Group project · Grade: 3 (Good)
 
 ## ROIC sensitivity among European airlines
 

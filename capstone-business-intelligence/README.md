@@ -1,6 +1,6 @@
 # Capstone: Business Intelligence (57E00500)
 
-Aalto University · 6 ECTS · Spring 2024 · Group projects
+Aalto University · 6 ECTS · Spring 2024 · Group projects · Grade: 5 (Excellent)
 
 Three BI deliverables covering visualization, dashboarding, and applied machine learning:
 

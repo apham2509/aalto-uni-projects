@@ -1,6 +1,6 @@
 # Capstone: Future-proofing Supply Chains (ISM-E3002)
 
-Aalto University · 6 ECTS · Spring 2026 · Group project
+Aalto University · 6 ECTS · Spring 2026 · Group project · Grade: 4 (Very Good)
 
 ## ABB case study — reducing lead-time variability in ABB Drives Services
 

@@ -1,6 +1,6 @@
 # Decision Analytics for Consulting (ISM-E1006)
 
-Aalto University · 6 ECTS · Spring 2025 · Group project
+Aalto University · 6 ECTS · Spring 2025 · Group project · Grade: 5 (Excellent)
 
 ## Multi-criteria decision analysis: future-proofing Aalto University
 

@@ -1,6 +1,6 @@
 # Machine Learning (CS-C3240)
 
-Aalto University · 5 ECTS · Autumn 2023 · Individual project
+Aalto University · 5 ECTS · Autumn 2023 · Individual project · Grade: 5 (Excellent)
 
 ## Predicting financial system vulnerability in Finland using macroeconomic indicators
 

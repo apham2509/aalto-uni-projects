@@ -1,6 +1,6 @@
 # Hands-On Analytics on Accounting Information Systems (ABL-C1102)
 
-Aalto University · 6 ECTS · Spring 2025 · Group case work
+Aalto University · 6 ECTS · Spring 2025 · Group case work · Grade: 5 (Excellent)
 
 ## Case: selecting a cloud-based accounting information system
 

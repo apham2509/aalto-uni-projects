@@ -1,6 +1,6 @@
 # Large Scale Data Analysis (ELEC-E5431)
 
-Aalto University · 5 ECTS · Spring 2025 · Individual assignments
+Aalto University · 5 ECTS · Spring 2025 · Individual assignments · Grade: 3 (Good)
 
 Optimization and large-scale machine-learning methods implemented **from scratch in NumPy**, with convergence analysis. Each assignment has the notebook plus a PDF printout.
 

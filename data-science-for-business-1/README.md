@@ -1,6 +1,6 @@
 # Data Science for Business I (30E03000)
 
-Aalto University · 6 ECTS · Autumn 2024 · Group project
+Aalto University · 6 ECTS · Autumn 2024 · Group project · Grade: 5 (Excellent)
 
 ## Wolt: how does weather impact delivery times?
 
@@ -14,8 +14,8 @@ End-to-end data science project on real food-delivery data: can weather conditio
 
 | File | Description |
 |------|-------------|
-| `analysis.ipynb` | Full data analysis and modeling notebook |
-| `data/orders_autumn_2020.csv` | Order-level delivery data |
+| `analysis.ipynb` | Final modeling notebook: EDA, feature engineering, and delivery-time prediction with linear and regularized regression models, cross-validation, and hyperparameter search |
+| `orders_autumn_2020.csv` | Order-level delivery data (loaded by the notebook) |
 | `data/daily_cp_activity_dataset.csv` | Daily courier-partner activity |
 | `final_report.pdf` | Final written report |
 | `presentation.pptx` | Results presentation |

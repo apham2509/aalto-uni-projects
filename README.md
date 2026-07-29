@@ -13,7 +13,6 @@ Each folder is one course. Inside you'll find the project deliverables (notebook
 |--------|------|------|---------|-------|-------|
 | [Capstone: Future-proofing Supply Chains](./capstone-future-proofing-supply-chains) | ISM-E3002 | Spring 2026 | ABB Drives Services — reducing lead-time variability | Python, Power BI | 4 (Very Good) |
 | [Data Analytics for Accounting and Audit](./data-analytics-for-accounting-and-audit) | ABL-C1103 | Spring 2025 | ROIC sensitivity of European airlines + interactive dashboard | Python, Dash/Plotly | 3 (Good) |
-| [Hands-On Analytics on Accounting Information Systems](./accounting-information-systems) | ABL-C1102 | Spring 2025 | Cloud accounting system selection case | Case analysis | 5 (Excellent) |
 | [Decision Analytics for Consulting](./decision-analytics-for-consulting) | ISM-E1006 | Spring 2025 | Multi-criteria decision analysis: future-proofing Aalto University | Excel, MCDA | 5 (Excellent) |
 | [Large Scale Data Analysis](./large-scale-data-analysis) | ELEC-E5431 | Spring 2025 | Optimization & regularized regression implemented from scratch | Python, NumPy | 3 (Good) |
 | [Data Science for Business I](./data-science-for-business-1) | 30E03000 | Autumn 2024 | Wolt: how weather impacts food-delivery times | Python, ML | 5 (Excellent) |

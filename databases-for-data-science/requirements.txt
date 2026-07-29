@@ -1,0 +1,10 @@
+dash==2.17.0
+dash-bootstrap-components==1.6.1rc2
+SQLAlchemy==2.0.30
+openpyxl==3.2.0b1
+matplotlib==3.9.0
+scipy==1.14.0rc1
+pandas==2.2.2
+psycopg2==2.9.9
+numpy==1.26.4
+#psycopg2-binary==2.9.9

@@ -4,7 +4,7 @@ Aalto University · 6 ECTS · Spring 2025 · Group project · Grade: 5 (Excellen
 
 ## Multi-criteria decision analysis: future-proofing Aalto University
 
-A consulting-style decision analysis exercise: how should Aalto University position itself for alternative future scenarios? The work follows a full decision-analysis process — scenario construction, objectives and attributes, strategic action proposals, elicitation of weights and utilities, and analysis of the resulting recommendations.
+A consulting-style decision analysis exercise: how should Aalto University position itself for alternative future scenarios? The work follows a full decision-analysis process - scenario construction, objectives and attributes, strategic action proposals, elicitation of weights and utilities, and analysis of the resulting recommendations.
 
 ## Files
 

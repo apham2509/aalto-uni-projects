@@ -14,7 +14,7 @@ Course project combining economics and machine learning: forecasting a vulnerabi
 
 | File | Description |
 |------|-------------|
-| `report_stage1.pdf` | Interim report — problem formulation and methods |
-| `report_final.pdf` | Final report — results and conclusions |
+| `report_stage1.pdf` | Interim report - problem formulation and methods |
+| `report_final.pdf` | Final report - results and conclusions |
 
 **Tools:** Python (scikit-learn, pandas)

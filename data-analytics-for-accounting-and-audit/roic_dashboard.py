@@ -1,9 +1,9 @@
 # ───────────────────────────────────────────────────────────────────────────
-# app.py  — Dash Dashboard with Algebraic Scenario Sensitivity (No ML Model)
+# app.py - Dash Dashboard with Algebraic Scenario Sensitivity (No ML Model)
 #   - Computes ROIC directly from EBIT, TaxRate & InvestedCapital.
 #   - Baseline = the maximum year in the user‐selected range.
 #   - Scenarios: CapEx -10%, InvestedCapital +15%, Revenue +10%.
-#   - ΔROIC = ROIC_scenario – ROIC_baseline.
+#   - ΔROIC = ROIC_scenario - ROIC_baseline.
 # ───────────────────────────────────────────────────────────────────────────
 
 import pandas as pd
@@ -62,7 +62,7 @@ all_companies = sorted(df['Company'].unique())
 app.layout = html.Div(style={'fontFamily': 'Arial', 'margin': '20px'}, children=[
     html.H1("A Comparative Scenario Analysis of Finnair & Competitors", style={'textAlign': 'center'}),
 
-    # ── Controls: Year–Range Slider & Company Dropdown ─────────────────────────
+    # ── Controls: Year-Range Slider & Company Dropdown ─────────────────────────
     html.Div(style={'display': 'flex', 'justifyContent': 'space-between', 'marginBottom': '20px'}, children=[
         html.Div(style={'width': '65%'}, children=[
             html.Label("Select Year Range:", style={'fontWeight': 'bold'}),
@@ -99,7 +99,7 @@ app.layout = html.Div(style={'fontFamily': 'Arial', 'margin': '20px'}, children=
         html.Div(style={'width': '49%'}, children=[dcc.Graph(id='scenario-bar')])
     ]),
 
-    # ── Row 3: Historical vs Holt–Winters Forecast (All Companies) ─────────────
+    # ── Row 3: Historical vs Holt-Winters Forecast (All Companies) ─────────────
     html.Div(style={'marginTop': '20px'}, children=[dcc.Graph(id='hist-forecast-line')]),
 
     html.Div(style={'textAlign': 'center', 'color': '#555', 'marginTop': '10px'},
@@ -133,7 +133,7 @@ def update_charts(year_range, selected_companies):
     # Print debug info: which companies are missing in this filter
     missing = [c for c in selected_companies if c not in filtered_df['Company'].unique()]
     if missing:
-        print(f"**DEBUG**: No data for {missing} in years {start_year}–{end_year}.")
+        print(f"**DEBUG**: No data for {missing} in years {start_year}-{end_year}.")
 
     # ── 3.2) AVERAGE ROIC ± STD DEV ─────────────────────────────────────────────
     if not filtered_df.empty:
@@ -156,7 +156,7 @@ def update_charts(year_range, selected_companies):
         error_y='std',
         color='Company',
         color_discrete_sequence=px.colors.qualitative.Dark24,
-        title=f"Average ROIC ± Std Dev ({start_year}–{end_year})"
+        title=f"Average ROIC ± Std Dev ({start_year}-{end_year})"
     )
     fig_avg.update_layout(
         template='plotly_white',
@@ -318,7 +318,7 @@ def update_charts(year_range, selected_companies):
             margin=dict(t=50)
         )
 
-    # ── 3.6) HISTORICAL vs. HOLT–WINTERS FORECAST ───────────────────────────────
+    # ── 3.6) HISTORICAL vs. HOLT-WINTERS FORECAST ───────────────────────────────
     traces = []
     forecast_horizon = 5  # next 5 years
 
